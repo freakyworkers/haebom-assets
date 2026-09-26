@@ -1,0 +1,30 @@
+{
+  "renderer": "existing haebom-news igcard",
+  "format": "1080x1350",
+  "cards": [
+    {
+      "kind": "cover"
+    },
+    {
+      "kind": "compare",
+      "paper": "cream",
+      "header": true
+    },
+    {
+      "kind": "code",
+      "header": true
+    },
+    {
+      "kind": "steps",
+      "paper": "cream",
+      "header": true
+    },
+    {
+      "kind": "quote",
+      "header": true
+    },
+    {
+      "kind": "cta"
+    }
+  ]
+}
